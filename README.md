@@ -37,7 +37,7 @@
 
 ### 2. Na pasta src abra o terminal no editor de código: Certifique-se de que o terminal do Visual Studio Code ainda esteja aberto e apontando para a pasta raiz do seu projeto (src).
 
-### 4. Execute o servidor da API: No terminal do Visual Studio Code, digite o seguinte comando para iniciar o servidor da API:
+### 3. Execute o servidor da API: No terminal do Visual Studio Code, digite o seguinte comando para iniciar o servidor da API:
 
    ```
    node server.js
