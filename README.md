@@ -1,4 +1,4 @@
-Para executar a aplicação React, siga as etapas abaixo:
+### ** Para executar a aplicação React, siga as etapas abaixo:
 
 1. Instale o Node.js e o npm: O Node.js é necessário para executar a aplicação React, e o npm (Node Package Manager) é utilizado para gerenciar as dependências do projeto. Se você ainda não tem o Node.js instalado, você pode baixá-lo em [nodejs.org](https://nodejs.org) e seguir as instruções de instalação para o seu sistema operacional. O Node.js inclui o npm, portanto, não é necessário instalá-lo separadamente.
 
@@ -25,6 +25,33 @@ Para executar a aplicação React, siga as etapas abaixo:
 7. Ou você pode acessar a aplicação abrindo o navegador da sua preferência e digite o link local fornecido no terminal, na barra de endereços. Pressione "Enter" para acessar a aplicação React em execução.
 
 Lembre-se de manter o terminal do Visual Studio Code aberto enquanto estiver trabalhando na aplicação, pois ele será usado para exibir mensagens e possíveis erros durante o desenvolvimento.
+
+### ** Para abrir o arquivo `server.js`, que é a API da sua aplicação, siga as etapas abaixo:
+
+1. Certifique-se de ter o Express e o SQLite3 instalados: No Visual Studio Code, abra o terminal novamente e execute os seguintes comandos para instalar o Express e o SQLite3 no seu projeto:
+
+   ```
+   npm install express sqlite3
+   ```
+
+   Isso irá instalar as bibliotecas necessárias para a sua API funcionar corretamente.
+
+2. Abra o arquivo `server.js` no editor de código: Navegue até a pasta do seu projeto onde o arquivo `server.js` está localizado. No Visual Studio Code, você pode usar o explorador de arquivos na barra lateral esquerda para encontrar e abrir o arquivo `server.js`.
+
+3. Abra o terminal no editor de código: Certifique-se de que o terminal do Visual Studio Code ainda esteja aberto e apontando para a pasta raiz do seu projeto.
+
+4. Execute o servidor da API: No terminal do Visual Studio Code, digite o seguinte comando para iniciar o servidor da API:
+
+   ```
+   node server.js
+   ```
+
+   Após executar o comando, você verá uma mensagem indicando que o servidor está sendo executado na porta 3001 (ou em outra porta, se você tiver configurado diferente no código).
+
+Agora, você pode acessar a API através do link `http://localhost:3001` (ou a porta que você definiu) para interagir com os endpoints e testar a funcionalidade da sua aplicação.
+
+Certifique-se de deixar o terminal do Visual Studio Code aberto enquanto estiver executando a API, pois ele exibirá mensagens de log e possíveis erros durante a execução.
+
 
 Link do protótipo no Behance com protótipo do Figma: https://lnkd.in/dSz3GGDk
 
