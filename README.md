@@ -51,7 +51,7 @@
 
 
 
-# Link do protótipo no Behance com protótipo do Figma: https://lnkd.in/dSz3GGDk
+## Link do Behance com protótipo do Figma: https://lnkd.in/dSz3GGDk
 
 
 ![Previu (2)](https://github.com/fabisanae/Streamcult/assets/80265459/2868982b-5fc3-4d64-9152-1b8e78c0bad2)
