@@ -43,9 +43,11 @@
    node server.js
    ```
 
-  ###  Após executar o comando, você verá uma mensagem indicando que o servidor está sendo executado na porta 3001 (ou em outra porta, se você tiver configurado diferente no código).
+  ###  Após executar o comando, você verá uma mensagem indicando que o servidor está sendo executado na porta 3001 
 
-### Agora, você pode acessar a API através do link `http://localhost:3001` (ou a porta que você definiu) para interagir com os endpoints e testar a funcionalidade da sua aplicação.
+
+
+### Agora, você pode acessar a API através do link `http://localhost:3001 para interagir com os endpoints e testar a funcionalidade.
 
 
 ![Previu (2)](https://github.com/fabisanae/Streamcult/assets/80265459/2868982b-5fc3-4d64-9152-1b8e78c0bad2)
