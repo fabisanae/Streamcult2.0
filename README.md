@@ -12,7 +12,7 @@ Para executar a aplicação React, siga as etapas abaixo:
    npm install -g vite
    ```
 
-5. Em seguida, execute o comando `npm install` para instalar as dependências do projeto. Isso irá baixar e instalar todas as bibliotecas e pacotes necessários para executar a aplicação.
+5. Em seguida, execute o comando `npm install` para instalar as dependências do projeto junto com o node_modules. Isso irá baixar e instalar todas as bibliotecas e pacotes necessários para executar a aplicação.
 
 6. Inicie o servidor de desenvolvimento: Após a instalação das dependências, no terminal do Visual Studio Code, digite o seguinte comando para iniciar o servidor de desenvolvimento:
    
