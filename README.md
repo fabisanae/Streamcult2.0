@@ -2,7 +2,7 @@
 
 ### 1. Instale o Node.js e o npm: O Node.js é necessário para executar a aplicação React, e o npm (Node Package Manager) é utilizado para gerenciar as dependências do projeto. Se você ainda não tem o Node.js instalado, você pode baixá-lo em [nodejs.org](https://nodejs.org) e seguir as instruções de instalação para o seu sistema operacional. O Node.js inclui o npm, portanto, não é necessário instalá-lo separadamente.
 
- ###  Abra a pasta raiz do projeto, que contém o diretório `src`, no seu editor de código preferido, como o Visual Studio Code.
+### 2.Abra a pasta raiz do projeto, que contém o diretório `src`, no seu editor de código preferido, como o Visual Studio Code.
 
 ### 3. Abra o terminal no editor de código: No Visual Studio Code, você pode abrir o terminal clicando em "Terminal" no menu superior e selecionando "New Terminal". Certifique-se de que o terminal esteja apontando para a pasta raiz do seu projeto, dando um cd client.
 
