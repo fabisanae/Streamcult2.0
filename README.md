@@ -1,4 +1,4 @@
-Para executar sua aplicação React, siga as etapas abaixo:
+Para executar a aplicação React, siga as etapas abaixo:
 
 1. Instale o Node.js e o npm: O Node.js é necessário para executar a aplicação React, e o npm (Node Package Manager) é utilizado para gerenciar as dependências do projeto. Se você ainda não tem o Node.js instalado, você pode baixá-lo em [nodejs.org](https://nodejs.org) e seguir as instruções de instalação para o seu sistema operacional. O Node.js inclui o npm, portanto, não é necessário instalá-lo separadamente.
 
