@@ -27,7 +27,7 @@
 
 #  Para abrir o arquivo `server.js`, que é a API da sua aplicação, siga as etapas abaixo:
 
-### 1. Certifique-se de ter o Express e o SQLite3 instalados: No Visual Studio Code, abra o terminal novamente e execute os seguintes comandos para instalar o Express e o SQLite3 no seu projeto:
+### 1. Certifique-se de ter o Express e o SQLite3 instalados: No Visual Studio Code, abra o terminal novamente e execute os seguintes comandos para instalar o Express e o SQLite3 na pasta src:
 
    ```
    npm install express sqlite3
@@ -35,9 +35,7 @@
 
  ###  Isso irá instalar as bibliotecas necessárias para a sua API funcionar corretamente.
 
-### 2. Abra o arquivo `server.js` no editor de código: Navegue até a pasta do seu projeto onde o arquivo `server.js` está localizado. No Visual Studio Code, você pode usar o explorador de arquivos na barra lateral esquerda para encontrar e abrir o arquivo `server.js`.
-
-### 3. Abra o terminal no editor de código: Certifique-se de que o terminal do Visual Studio Code ainda esteja aberto e apontando para a pasta raiz do seu projeto.
+### 2. Na pasta src abra o terminal no editor de código: Certifique-se de que o terminal do Visual Studio Code ainda esteja aberto e apontando para a pasta raiz do seu projeto (src).
 
 ### 4. Execute o servidor da API: No terminal do Visual Studio Code, digite o seguinte comando para iniciar o servidor da API:
 
